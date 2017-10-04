@@ -1,6 +1,6 @@
 
 # -*- coding: utf-8 -*-
-#agrege algo
+#agrege algo2
 class edad():
 	def edad(self,num1):
 
