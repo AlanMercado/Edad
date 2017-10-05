@@ -11,3 +11,4 @@ before_script:
 
 script: 
    - python TestEdad.py
+   - coverage run --branch TestEdad.py
